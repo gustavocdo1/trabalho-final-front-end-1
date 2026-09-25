@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#bfe3ff"/>
+  <circle cx="680" cy="75" r="45" fill="#ffd34d"/>
+  <rect y="270" width="800" height="130" fill="#79b85a"/>
+  <rect x="270" y="155" width="260" height="150" fill="#c94f3d"/>
+  <polygon points="240,165 400,75 560,165" fill="#6b3f2b"/>
+  <rect x="365" y="215" width="70" height="90" fill="#6b3f2b"/>
+  <rect x="295" y="190" width="45" height="45" fill="#d9f0ff"/>
+  <rect x="460" y="190" width="45" height="45" fill="#d9f0ff"/>
+  <rect x="90" y="235" width="20" height="80" fill="#6b4f2f"/>
+  <circle cx="100" cy="215" r="55" fill="#4f9445"/>
+  <text x="400" y="355" text-anchor="middle" font-family="Arial" font-size="28" fill="#274f2b">Fazenda Boa Esperança</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#c8e7ff"/>
+  <rect y="280" width="800" height="120" fill="#77b85a"/>
+  <ellipse cx="390" cy="215" rx="150" ry="80" fill="#ffffff" stroke="#333" stroke-width="5"/>
+  <circle cx="540" cy="195" r="58" fill="#ffffff" stroke="#333" stroke-width="5"/>
+  <ellipse cx="355" cy="190" rx="45" ry="30" fill="#333"/>
+  <ellipse cx="430" cy="235" rx="40" ry="28" fill="#333"/>
+  <circle cx="555" cy="180" r="8" fill="#333"/>
+  <ellipse cx="570" cy="220" rx="25" ry="16" fill="#f1b7b7" stroke="#333" stroke-width="3"/>
+  <rect x="300" y="265" width="20" height="75" fill="#fff" stroke="#333" stroke-width="4"/>
+  <rect x="445" y="265" width="20" height="75" fill="#fff" stroke="#333" stroke-width="4"/>
+  <line x1="240" y1="205" x2="185" y2="170" stroke="#333" stroke-width="6"/>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial" font-size="26" fill="#274f2b">Produção leiteira</text>
+</svg>
